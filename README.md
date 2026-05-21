@@ -5,7 +5,7 @@ O Problema: O desperdício de alimentos e a "fadiga de decisão". Muitas vezes, 
 
 A Solução AI: Um assistente culinário inteligente. O usuário tira uma foto do interior da sua geladeira (ou digita os ingredientes que possui). A IA identifica o que está disponível e sugere receitas criativas e práticas utilizando apenas (ou majoritariamente) aqueles itens.
 
-2. O Funcionamento (Arquitetura do Sistema)
+O Funcionamento (Arquitetura do Sistema)
 Para que o "Chef de Geladeira" funcione, o sistema opera em três etapas principais:
 
 Entrada (Input): O usuário faz o upload de uma imagem do interior da geladeira através de uma interface web simples.
@@ -16,7 +16,7 @@ Geração: O modelo utiliza seu treinamento em linguagem natural e bases de dado
 
 Saída (Output): A interface exibe os ingredientes que a IA conseguiu identificar para o usuário validar, seguidos de 2 ou 3 sugestões de receitas detalhadas (nome do prato, tempo de preparo, ingredientes e modo de fazer).
 
-3. Implementação: O Protótipo Funcional
+Implementação: O Protótipo Funcional
 Para construir um protótipo rápido e funcional, não precisamos treinar um modelo do zero. Podemos utilizar ferramentas modernas e bibliotecas prontas.
 
 Stack Tecnológico Sugerido:
